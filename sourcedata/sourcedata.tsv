@@ -1,2 +1,2 @@
-source_id	subjects_num	sessions_num	sessions_min	sessions_max	bold_num	t1w_num	t2w_num	bold_size	t1w_size	bold_size_max	bold_duration_total	bold_duration_mean	bold_voxels_total	bold_voxels_mean	datatypes
-ds002345	345	n/a	n/a	n/a	873	378	47	136271350705	5112315905	156095476	23143215.479903698	26509.983367587283	264978432	303526.26804123714	anat,func
+source_id	subjects_num	sessions_num	sessions_min	sessions_max	bold_num	t1w_num	t2w_num	bold_size	t1w_size	bold_size_max	bold_duration_total	bold_duration_mean	bold_voxels_total	bold_voxels_mean	bold_tasks	bold_timepoints	bold_trs	datatypes
+ds002345	345	n/a	n/a	n/a	873	378	47	136271350705	5112315905	156095476	23143215.479903698	26509.983367587283	264978432	303526.26804123714	21styear,black,bronx,forgot,lucy,merlin,milkyway,notthefallintact,notthefalllongscram,notthefallshortscram,pieman,piemanpni,prettymouth,schema,shapesphysical,shapessocial,sherlock,slumlordreach,tunnel	443743	{"1.5":806,"1.52":17,"1500.0":50}	anat,func
